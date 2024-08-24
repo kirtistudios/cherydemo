@@ -1,0 +1,188 @@
+#: locale=es
+
+## Action
+
+### URL
+WebFrame_3BA45FF8_8F22_C544_41D8_C6F024F9FA37.url = https://cherybd.com/pages/introduction
+PopupWebFrameBehaviour_9283B5E9_822F_C367_41DC_D1EE038A2E99.url = https://cherybd.com/pages/tiggo-4-pro
+PopupWebFrameBehaviour_9250C9B3_822F_C3E4_4191_B71379CC9A28.url = https://cherybd.com/pages/tiggo-7-pro
+PopupWebFrameBehaviour_8D8AE911_822E_C0A7_41D9_9E71B73B145E.url = https://cherybd.com/pages/tiggo-8-pro
+WebFrame_07EC38A1_8F22_4BC5_41DD_3193C10672B0.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3651.360015712805!2d90.410103!3d23.770191!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7876eb61d75%3A0x94d0fb4b26e08e86!2sChery%20Bangladesh!5e0!3m2!1sen!2sbd!4v1724434589935!5m2!1sen!2sbd
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2690D4E3_9AD5_2849_41D4_21311D0EF133.text = CLICK TO Close
+HotspotPanoramaOverlayTextImage_FC877783_826F_4FAB_41D9_4498228D1EF8.text = CLICK TO Close
+HotspotPanoramaOverlayTextImage_AEA86E84_8226_C1AD_41B8_B21CFB59AA89.text = CLICK TO Close
+HotspotPanoramaOverlayTextImage_9A890718_8226_C0A5_41DA_6E2DBD676355.text = CLICK TO Close
+HotspotPanoramaOverlayTextImage_E27481F8_99DF_6838_4198_D7E604F31A76.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_34F088DC_9AD3_F878_41D4_4E6382201C05.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_91F02BC7_8221_47AB_41D7_187A33BB7806.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_25CD7550_8261_40A5_41D9_9B43DF90D62E.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_821D6975_994D_3848_41C1_61ED70F853A1.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_08AAD658_8261_C0A5_41D6_7780865D992E.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_A7417223_8221_40EB_41DA_585CEABC55E4.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_C2D596EA_8223_4165_41A0_82BAE7D2DE55.text = CLICK TO OPEN
+HotspotPanoramaOverlayTextImage_82199CC0_9955_1848_41C1_D623017B50E4.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_81DEE594_9ACF_28C8_41C7_67BA55C9D409.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_12E8B746_9ACD_2848_41DE_B7F190DB0E40.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_DDC29CFC_9933_3838_4181_A221C74029D5.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_3EAD546B_9ADD_E858_41D4_1ECAF1D667EE.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_C2E296E9_8223_4167_41B3_DA07971AB7AE.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_81E2C851_9AF7_7848_41D4_1F8DDC3F642E.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_81E31906_9AF5_19C8_41C1_70980CB49524.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_08A2E659_8261_C0A7_41C7_8241E35EE165.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_08A5E65B_8261_C15B_41D0_00374B4D4961.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_81EF234D_9ACD_2858_41C0_D8AB0866EEF7.text = CLICK TO SEE
+HotspotPanoramaOverlayTextImage_81E83632_9AF3_2BC8_41DD_FB8A819D15A9.text = Click to exit
+HotspotPanoramaOverlayTextImage_81E8B219_9AF3_2BF8_41AC_32862DC6DEFD.text = Click to exit
+HotspotPanoramaOverlayTextImage_81E90AF5_9AF2_F848_41E0_08330E124C54.text = Click to exit
+HotspotPanoramaOverlayTextImage_81E90AF4_9AF2_F848_41C6_1082D053277F.text = Click to exit
+HotspotPanoramaOverlayTextImage_25CDA54F_8261_40BB_41C5_3B1D089A63FD.text = ENTER
+HotspotPanoramaOverlayTextImage_9A8ED717_8226_C0AB_41BB_D1A15E8A4123.text = ENTER
+HotspotPanoramaOverlayTextImage_FC876783_826F_4FAB_41BF_39B20FF1D0B8.text = ENTER
+HotspotPanoramaOverlayTextImage_81E24D67_9AF7_7848_41B8_A748A1D7F42D.text = ENTER
+
+## Media
+
+### 360 Video
+
+### Image
+imlevel_3F43BFF1_8261_5F67_41C7_D6AADE70B300.url = media/panorama_94F702E3_8227_416B_41DE_2FAD73B12A83_HS_a8b5f7i3_en.png
+imlevel_3F47DFBD_8261_5FDF_41D0_B4F19C5995CB.url = media/panorama_94F702E3_8227_416B_41DE_2FAD73B12A83_HS_ry9a35mo_en.png
+imlevel_3D6F86D6_8261_C1AD_41D4_0C26E55E94AC.url = media/panorama_DB6E40DE_994F_6878_41C9_C6A2E0BBADA4_HS_bipotgyg_en.png
+imlevel_3D5386AE_8261_C1FD_41C9_4C4B33139A26.url = media/panorama_DB6E40DE_994F_6878_41C9_C6A2E0BBADA4_HS_h581830h_en.png
+imlevel_3F69D0E8_8261_4165_41D2_17E427624A6D.url = media/panorama_DB6E5C9F_994F_18F8_41C7_05D46C7A2851_HS_nacm2wga_en.png
+imlevel_3F65B11A_8261_40A5_41DB_BF89E5213C0B.url = media/panorama_DB6E5C9F_994F_18F8_41C7_05D46C7A2851_HS_wwszb3cq_en.png
+imlevel_3E3209A7_8261_43EB_41D1_8C6BF6B7A00B.url = media/panorama_DB70D8ED_994F_1859_41B2_5083DB7D551B_HS_0rwty8t7_en.png
+imlevel_3EE24BD2_8261_47A5_41BA_DE5FC63E2962.url = media/panorama_DB70D8ED_994F_1859_41B2_5083DB7D551B_HS_d80x0mx3_en.png
+imlevel_3EA40E6E_8261_417D_41D8_A91C47624F37.url = media/panorama_DB70D8ED_994F_1859_41B2_5083DB7D551B_HS_yqzpwg69_en.png
+imlevel_3E3E392B_8261_40E4_41D8_C860831EDA6D.url = media/panorama_DB71042C_994E_EFD8_41D4_4A31292EE730_HS_e252kikd_en.png
+imlevel_3E356943_8261_40A4_41DA_C975D9507C47.url = media/panorama_DB71042C_994E_EFD8_41D4_4A31292EE730_HS_fnon33i4_en.png
+imlevel_3F2DE38C_8261_47BD_41DB_FE04F360E407.url = media/panorama_DB71815B_994F_6878_41C7_75379F4579D2_HS_2s83ohna_en.png
+imlevel_3F62A14F_8261_40BB_41DF_43869209FA2E.url = media/panorama_DB71815B_994F_6878_41C7_75379F4579D2_HS_cj8s240x_en.png
+imlevel_3FDE05C9_8261_43A7_41B8_4B73BDA44776.url = media/panorama_DB71815B_994F_6878_41C7_75379F4579D2_HS_dvanx1ep_en.png
+imlevel_3F5A0053_8261_40AB_41CE_8E1DB29B7305.url = media/panorama_DB7182B4_994F_28C8_41BC_A9281CA3A208_HS_a63wqb8x_en.png
+imlevel_3FD4D616_8261_40AD_41B6_7C0D82B8FAE3.url = media/panorama_DB7196FA_994F_6838_41D5_5806A0086DCE_HS_cwn1fapj_en.png
+imlevel_3FD8D5DE_8261_435D_4184_FFAB29D9C1D9.url = media/panorama_DB7196FA_994F_6838_41D5_5806A0086DCE_HS_nulmq89h_en.png
+imlevel_3CEEE167_8261_C36B_41B5_942D38A206F4.url = media/panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA_HS_g4rxona5_en.png
+imlevel_3D4205FE_8261_C35D_417E_88C7BE6E84F6.url = media/panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA_HS_irm0safb_en.png
+imlevel_3C6B0C3A_8261_40E5_41CB_917DAA0F71C4.url = media/panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA_HS_uu2ofi03_en.png
+imlevel_3CD35138_8261_C0E5_41D2_5E9DAAF1BD11.url = media/panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA_HS_vfwhicpx_en.png
+imlevel_3CD4E11C_8261_C0DD_41E0_257B11F05DF3.url = media/panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA_HS_z219d9dw_en.png
+imlevel_3F4F7F52_8261_40A5_41D3_42E6ADC2D1A0.url = media/panorama_DB71B35C_994F_2878_41DC_618BECD95418_HS_5pbjsmyj_en.png
+imlevel_3F4B6F88_8261_5FA5_4198_83949B57F11B.url = media/panorama_DB71B35C_994F_2878_41DC_618BECD95418_HS_ojlo86rr_en.png
+imlevel_3F5E1021_8261_40E7_41CF_82E68FA8DB98.url = media/panorama_DB71DDFA_994F_3838_41D2_7B6CA876459E_HS_fwkriihv_en.png
+imlevel_3EB40EF5_8261_416F_41E0_30F8F56542FD.url = media/panorama_DB71DE16_994F_1BC8_41D2_32ED2A0B8DB9_HS_8brnp0h8_en.png
+imlevel_3EB03F1D_8261_40DF_41C5_7BAC2EDCEA6F.url = media/panorama_DB71DE16_994F_1BC8_41D2_32ED2A0B8DB9_HS_rfqz0h8d_en.png
+imlevel_3F6D70B6_8261_41ED_41D6_DFD36850E4BE.url = media/panorama_DB71F77A_994F_2838_41B8_AD16C040D47F_HS_igztvhpj_en.png
+imlevel_3F517084_8261_41AD_41C8_768F12C332B9.url = media/panorama_DB71F77A_994F_2838_41B8_AD16C040D47F_HS_il3588tj_en.png
+imlevel_3E49945F_8261_415C_41C3_DAA2DE9DA14B.url = media/panorama_DCED5E65_994E_F848_41C6_1E0E9E7FA6F2_HS_blob0jgr_en.png
+imlevel_3E7666BE_8261_41DD_41D0_4C014A6F4EAE.url = media/panorama_DCED5E65_994E_F848_41C6_1E0E9E7FA6F2_HS_uruy3t0o_en.png
+imlevel_3F2FD3AA_8261_47E5_41D8_17A72BE10AC8.url = media/popup_08A2265A_8261_C0A5_41DC_2814725FE159_en_0_0.png
+imlevel_3F2FB3AB_8261_47FB_41CC_1CCE24321D91.url = media/popup_08A2265A_8261_C0A5_41DC_2814725FE159_en_0_1.png
+imlevel_3F2F83AB_8261_47FB_41CF_03275B59AEE0.url = media/popup_08A2265A_8261_C0A5_41DC_2814725FE159_en_0_2.png
+imlevel_3F788183_8261_43AB_41C3_5F0D947F09CC.url = media/popup_08A37659_8261_C0A7_41C6_FD416ECA432C_en_0_0.png
+imlevel_3F7B6183_8261_43AB_41C0_A2725FB5FFB9.url = media/popup_08A37659_8261_C0A7_41C6_FD416ECA432C_en_0_1.png
+imlevel_3F796183_8261_43AB_41D7_382609D30614.url = media/popup_08A37659_8261_C0A7_41C6_FD416ECA432C_en_0_2.png
+imlevel_3E0C26DB_8261_415B_41D9_DA9ACE95497E.url = media/popup_91469769_823F_4F64_41D8_6D3DE656693B_en_0_0.png
+imlevel_3E0C36DB_8261_415B_41D9_2D3E7ACADDEB.url = media/popup_91469769_823F_4F64_41D8_6D3DE656693B_en_0_1.png
+imlevel_3E0C06DB_8261_415B_41B6_6022DD19D8B1.url = media/popup_91469769_823F_4F64_41D8_6D3DE656693B_en_0_2.png
+imlevel_3EBCFE8F_8261_41BB_41C2_54D2076E2761.url = media/popup_916E139C_823F_C7DD_41CF_F151598B43AB_en_0_0.png
+imlevel_3EBCDE90_8261_41A5_41C4_7FD0838C2B0F.url = media/popup_916E139C_823F_C7DD_41CF_F151598B43AB_en_0_1.png
+imlevel_3EBCAE90_8261_41A5_41D1_900F17887F68.url = media/popup_916E139C_823F_C7DD_41CF_F151598B43AB_en_0_2.png
+imlevel_3D54267D_8261_C15F_41DC_4F57F16BF061.url = media/popup_998CB353_8221_40AB_41BD_BCB59A185F14_en_0_0.png
+imlevel_3D55367E_8261_C15D_41DF_AFC96BB21980.url = media/popup_998CB353_8221_40AB_41BD_BCB59A185F14_en_0_1.png
+imlevel_3D55667E_8261_C15D_41E0_2EE61FF0DC5E.url = media/popup_998CB353_8221_40AB_41BD_BCB59A185F14_en_0_2.png
+imlevel_3E361976_8261_436D_41DE_A3F657FF6BD6.url = media/popup_9E73976E_8221_CF7D_41A4_FD11B1B74170_en_0_0.png
+imlevel_3E36E977_8261_436B_41B4_23981F490D09.url = media/popup_9E73976E_8221_CF7D_41A4_FD11B1B74170_en_0_1.png
+imlevel_3E36C977_8261_436B_41DD_8674E90929EB.url = media/popup_9E73976E_8221_CF7D_41A4_FD11B1B74170_en_0_2.png
+imlevel_3D58564C_8261_C0BD_41C9_1E4D04DE3432.url = media/popup_9E7D79C9_8223_43A7_4150_621F6B6C79B3_en_0_0.png
+imlevel_3D58764C_8261_C0BD_41C3_810B2B5B972E.url = media/popup_9E7D79C9_8223_43A7_4150_621F6B6C79B3_en_0_1.png
+imlevel_3D5B864C_8261_C0BD_41DC_E9DB8A7D6D3D.url = media/popup_9E7D79C9_8223_43A7_4150_621F6B6C79B3_en_0_2.png
+imlevel_3D5F8618_8261_C0A5_41D2_6147CD6D7E31.url = media/popup_9FF27A5D_8223_C15F_41D9_9F5FC75380B6_en_0_0.png
+imlevel_3D5FA618_8261_C0A5_41AA_864CB1CEE396.url = media/popup_9FF27A5D_8223_C15F_41D9_9F5FC75380B6_en_0_1.png
+imlevel_3D5FC619_8261_C0A7_41D4_B91F467CAA12.url = media/popup_9FF27A5D_8223_C15F_41D9_9F5FC75380B6_en_0_2.png
+imlevel_3EB81EC3_8261_41AA_41B2_8251C37CBE39.url = media/popup_A3F44FB7_8223_DFEB_41D3_5D496E0879B3_en_0_0.png
+imlevel_3EB9FEC4_8261_41AD_41A6_FBB8FE2ACCAE.url = media/popup_A3F44FB7_8223_DFEB_41D3_5D496E0879B3_en_0_1.png
+imlevel_3EB9AEC4_8261_41AD_41DC_C98EC60C18A4.url = media/popup_A3F44FB7_8223_DFEB_41D3_5D496E0879B3_en_0_2.png
+
+### Popup Image
+
+### Title
+panorama_DCED5E65_994E_F848_41C6_1E0E9E7FA6F2.label = Render0001
+panorama_DB71042C_994E_EFD8_41D4_4A31292EE730.label = Render0002
+panorama_DB70D8ED_994F_1859_41B2_5083DB7D551B.label = Render0003
+panorama_DB71DE16_994F_1BC8_41D2_32ED2A0B8DB9.label = Render0004
+panorama_DB71B35C_994F_2878_41DC_618BECD95418.label = Render0005
+panorama_DB71DDFA_994F_3838_41D2_7B6CA876459E.label = Render0007
+panorama_DB7182B4_994F_28C8_41BC_A9281CA3A208.label = Render0008
+panorama_DB71F77A_994F_2838_41B8_AD16C040D47F.label = Render0009
+panorama_DB6E5C9F_994F_18F8_41C7_05D46C7A2851.label = Render0010
+panorama_DB71815B_994F_6878_41C7_75379F4579D2.label = Render0011
+panorama_DB7196FA_994F_6838_41D5_5806A0086DCE.label = Render0012
+panorama_DB719C1E_994F_7FF8_41D9_00A581A2BFFA.label = Render0013
+panorama_DB6E40DE_994F_6878_41C9_C6A2E0BBADA4.label = Render0014
+media_6B564BD6_8261_C7AD_41CA_2CD135A7B732.label = Render0014-0044
+video_826603F4_8222_C76D_4192_FAFB30C494AE.label = Render0014-0044
+panorama_DB71A58E_994F_68D8_41D9_5687D5F8E858.label = Render0016
+panorama_94F702E3_8227_416B_41DE_2FAD73B12A83.label = Render006
+
+### Video
+videores_92A10220_827A_2CD2_41BB_CF8892166FDA.url = media/media_6B564BD6_8261_C7AD_41CA_2CD135A7B732_en.mp4
+videores_92A10220_827A_2CD2_41BB_CF8892166FDA.posterURL = media/media_6B564BD6_8261_C7AD_41CA_2CD135A7B732_poster_en.jpg
+videolevel_92A49285_827A_2DD3_41D4_4935E77A08C8.url = media/video_826603F4_8222_C76D_4192_FAFB30C494AE_en.mp4
+videolevel_92A49285_827A_2DD3_41D4_4935E77A08C8.posterURL = media/video_826603F4_8222_C76D_4192_FAFB30C494AE_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Amenities
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Amenities
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
+Button_CF4029E8_E7BC_CCCA_41E8_E109E1C94482.label = Others
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Extra Rooms
+Button_CE80D835_E7BC_CB5A_41D0_A5FCED2CFD99.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
+Button_F97842C9_E7EC_5CCD_41C6_FEA7926A2FEC.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+Button_81F1716A_9AD5_2858_41DA_3C0E350E9180.label = Others
+
+### Image
+Image_4C9BFD81_5F1E_9E35_41BF_E0A342FF97C7.url = skin/Image_4C9BFD81_5F1E_9E35_41BF_E0A342FF97C7_en.png
+Image_81F17169_9AD5_2858_41CF_523F1599EF54.url = skin/Image_81F17169_9AD5_2858_41CF_523F1599EF54_en.png
+Image_CE81F82F_E7BC_CB46_41D5_23F0FC4489A2.url = skin/Image_CE81F82F_E7BC_CB46_41D5_23F0FC4489A2_en.png
+Image_CF4159E7_E7BC_CCC6_41D5_C3056D5A4F41.url = skin/Image_CF4159E7_E7BC_CCC6_41D5_C3056D5A4F41_en.png
+Image_F97B62C9_E7EC_5CCD_41E9_544D7D9A5BA8.url = skin/Image_F97B62C9_E7EC_5CCD_41E9_544D7D9A5BA8_en.png
+Image_FACCA184_E6AC_FD3A_41DD_DA3FE6927FB8.url = skin/Image_FACCA184_E6AC_FD3A_41DD_DA3FE6927FB8_en.png
+
+### Label
+Label_8D5BCD5D_8223_435F_41AB_A58F3D5CEBF0.text = TIGGO 7 Pro
+Label_8CC9CB3F_8226_C0DB_41D8_C665145A38D2.text = TIGGO 8 Pro
+Label_8CE8F6AA_8223_C1E5_41D4_5894285DC7B2.text = TIGGO Compact
+
+### Multiline Text
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:24px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:10.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_C6108DBC_E8D0_9265_41CA_BEF9844BB561.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_C516A062_E8D0_F21C_41E2_BCDFAFF2B771.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_C70B27CB_E8D0_9E23_41EC_4FA825D22FF7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Virtual Car Showroom - 3D Previs Demo
